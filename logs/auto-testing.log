@@ -1264,3 +1264,71 @@
 2017-02-11 11:52:56 INFO  BasicTest:43 - Homepage: Searching for item diamond earrings 
 2017-02-11 11:52:56 INFO  BasicTest:44 - Sending keys to search bar
 2017-02-11 11:52:59 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:21:10 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-18 13:21:10 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-18 13:22:48 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-18 13:22:49 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-18 13:22:53 INFO  BasicTest:43 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-18 13:22:53 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-18 13:22:55 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:22:57 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-18 13:23:01 INFO  BasicTest:60 - Item Page: Selecting quantity 5
+2017-02-18 13:23:01 INFO  BasicTest:64 - Adding to cart
+2017-02-18 13:23:02 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-18 13:23:03 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-18 13:23:03 INFO  BasicTest:76 - subtotalString: $899.95
+2017-02-18 13:23:03 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-18 13:23:03 INFO  BasicTest:81 - Actual Subtotal: 899.95
+2017-02-18 13:23:03 INFO  BasicTest:82 - Expected Expected: 899.95
+2017-02-18 13:23:06 INFO  BasicTest:43 - Homepage: Searching for item diamond earrings 
+2017-02-18 13:23:06 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-18 13:23:08 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:23:42 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-18 13:24:15 INFO  BasicTest:60 - Item Page: Selecting quantity 25
+2017-02-18 13:24:16 INFO  BasicTest:64 - Adding to cart
+2017-02-18 13:24:18 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-18 13:24:19 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-18 13:24:19 INFO  BasicTest:76 - subtotalString: $4,749.75
+2017-02-18 13:24:19 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-18 13:24:19 INFO  BasicTest:81 - Actual Subtotal: 4749.75
+2017-02-18 13:24:19 INFO  BasicTest:82 - Expected Expected: 3499.75
+2017-02-18 13:24:22 INFO  BasicTest:43 - Homepage: Searching for item heart shaped ice tray
+2017-02-18 13:24:22 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-18 13:24:25 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:24:58 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-18 13:25:00 INFO  BasicTest:60 - Item Page: Selecting quantity 3
+2017-02-18 13:25:00 INFO  BasicTest:64 - Adding to cart
+2017-02-18 13:25:01 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-18 13:25:02 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-18 13:25:02 INFO  BasicTest:76 - subtotalString: $19.11
+2017-02-18 13:25:02 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-18 13:25:02 INFO  BasicTest:81 - Actual Subtotal: 19.11
+2017-02-18 13:25:02 INFO  BasicTest:82 - Expected Expected: 19.17
+2017-02-18 13:25:05 INFO  BasicTest:43 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-18 13:25:05 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-18 13:25:07 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:25:39 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-18 13:25:43 INFO  BasicTest:60 - Item Page: Selecting quantity 1
+2017-02-18 13:25:43 INFO  BasicTest:64 - Adding to cart
+2017-02-18 13:25:45 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-18 13:25:46 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-18 13:25:46 INFO  BasicTest:76 - subtotalString: $18.00
+2017-02-18 13:25:46 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-18 13:25:46 INFO  BasicTest:81 - Actual Subtotal: 18.0
+2017-02-18 13:25:46 INFO  BasicTest:82 - Expected Expected: 29.95
+2017-02-18 13:25:49 INFO  BasicTest:43 - Homepage: Searching for item i love you pillowcase
+2017-02-18 13:25:49 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-18 13:25:52 INFO  BasicTest:46 - Submitting on search button
+2017-02-18 13:25:53 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-18 13:25:55 INFO  BasicTest:60 - Item Page: Selecting quantity 2
+2017-02-18 13:25:55 INFO  BasicTest:64 - Adding to cart
+2017-02-18 13:25:56 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-18 13:25:57 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-18 13:25:57 INFO  BasicTest:76 - subtotalString: $20.40
+2017-02-18 13:25:57 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-18 13:25:57 INFO  BasicTest:81 - Actual Subtotal: 20.4
+2017-02-18 13:25:57 INFO  BasicTest:82 - Expected Expected: 21.0
+2017-02-18 16:23:17 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-18 16:23:17 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-18 16:25:09 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-18 16:25:09 INFO  BasicTest:27 - Created a BasicTest object through constructor

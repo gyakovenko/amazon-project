@@ -11,7 +11,7 @@
       <class name="com.sqa.gy.AmazonCartTest1">
         <methods>
           <include name="setUpChrome"/>
-          <include name="testAddingItemsToCart" invocation-numbers="0 1 2 3 4"/>
+          <include name="testAddingItemsToCart" invocation-numbers="1 2 3 4"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.sqa.gy.AmazonCartTest1 -->
